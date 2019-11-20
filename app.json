@@ -1,0 +1,21 @@
+{
+  "name": "Socket-Chat-Example",
+  "description": "my first socket.io app",
+  "website": "https://github.com/an-0611/chatroom-storage",
+  "repository": "https://github.com/an-0611/chatroom-storage",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}

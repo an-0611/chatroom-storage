@@ -1,0 +1,17 @@
+@media screen and (min-width: 400px) and (max-width: 767px) {
+	body {
+		width: 100%;
+	}
+    #messages .box{
+        width: 100%;
+        font-size: 22px;
+    }
+    #messages li span {
+    	font-size: 14px;
+	    color: white;
+	    position: absolute;
+	    right: 0;
+	    bottom: 0;
+	    text-shadow: black 0.1em 0.1em 0.2em;
+	}
+}
